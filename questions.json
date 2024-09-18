@@ -1,0 +1,226 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Mathis gave Alex digits 0, 2, 3, 4, 3 and 5 and asked to create smallest possible number with these digits, but not zero, at the highest place.",
+        "options": [
+            "./assests/optionImg/8.jpg",
+            "./assests/optionImg/9.jpg",
+            "./assests/optionImg/10.jpg",
+            "./assests/optionImg/11.jpg"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q2",
+        "question": "What is the place value of 1 in the number 1,566,825?",
+        "options": [
+            "One Billion",
+            "One Million",
+            "Hundred-thousands",
+            "Ten-thousands"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Write the number",
+        "options": [
+            "115.80",
+            "115",
+            "115.100",
+            "115.08"
+        ],
+        "correct": 0,
+        "secondImg":"./assests/images/1.jpg"
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Give the numbers:",
+        "options": [
+            "14015",
+            "1415",
+            "14015.72",
+            "1415.72"
+        ],
+        "correct": 2,
+        "secondImg":"./assests/images/2.jpg"
+    },
+    {
+        "questionNo": "Q5",
+        "question": "What is the place value of the digit 6 in the number 12.643?",
+        "options": [
+            "Ones",
+            "Tenths",
+            "Thousands",
+            "Thousandths"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6",
+        "question": "In the bustling city of Numericton, where Alex and Professor Mathis explored numeration, want to find the place values of the underlined digit?",
+        "options": [
+            "Hundredths",
+            "Tenths",
+            "Hundreds",
+            "Tens"
+        ],
+        "correct": 0,
+        "secondImg":"./assests/images/6.png"
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Lisa gets a ticket with the number 8710.695. Her mom asked her what the digit was at the hundredth place.",
+        "options": [
+            "7",
+            "5",
+            "9",
+            "8"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q8",
+        "question": "During his journey through Numericton, Alex encounters the number 2.005 . What is the place value of the digit 5 in the number?",
+        "options": [
+            "Hundredths",
+            "Thousands",
+            "Thousandths",
+            "Hundreds"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q9",
+        "question": "If the number 89971.9290 is shown in the place value chart, then what will be the right placement for zero?",
+        "options": [
+            "./assests/optionImg/4.jpg",
+            "./assests/optionImg/5.jpg",
+            "./assests/optionImg/6.jpg",
+            "./assests/optionImg/7.jpg"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Determine the place value of the underlined digits.",
+        "options": [
+            "Hundred-Thousandths",
+            "Tens",
+            "Units",
+            "Thousandths"
+        ],
+        "correct": 0,
+        "secondImg":"./assests/images/10.png"
+    },
+    {
+        "questionNo": "Q11",
+        "question": "Fill in the missing:<br> 7 + 0.7 + 0.08 + ___ = 7.789",
+        "options": [
+            "0.09",
+            "0.009",
+            "9",
+            ".789"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q12",
+        "question": "Write in the number 12.891 in the expanded form",
+        "options": [
+            "10 + 2 + <math><mfrac bevelled='true'><mfrac><msup><mi style='font-size:large'>8</mi></msup></mfrac><mfrac><msup><mi style='font-size:large'>10</mi></msup></mfrac></mfrac></math> + <math><mfrac bevelled='true'><mfrac><msup><mi style='font-size:large'>9</mi></msup></mfrac><mfrac><msup><mi style='font-size:large'>100</mi></msup></mfrac></mfrac></math> + <math><mfrac bevelled='true'><mfrac><msup><mi style='font-size:large'>1</mi></msup></mfrac><mfrac><msup><mi style='font-size:large'>1000</mi></msup></mfrac></mfrac></math>",
+            "10 + 2 + <math><mfrac bevelled='true'><mfrac><msup><mi style='font-size:large'>891</mi></msup></mfrac><mfrac><msup><mi style='font-size:large'>1000</mi></msup></mfrac></mfrac></math>",
+            "10 + 2 + <math><mfrac bevelled='true'><mfrac><msup><mi style='font-size:large'>1</mi></msup></mfrac><mfrac><msup><mi style='font-size:large'>10</mi></msup></mfrac></mfrac></math> + <math><mfrac bevelled='true'><mfrac><msup><mi style='font-size:large'>8</mi></msup></mfrac><mfrac><msup><mi style='font-size:large'>100</mi></msup></mfrac></mfrac></math> + <math><mfrac bevelled='true'><mfrac><msup><mi style='font-size:large'>9</mi></msup></mfrac><mfrac><msup><mi style='font-size:large'>1000</mi></msup></mfrac></mfrac></math>",
+            "12 + <math><mfrac bevelled='true'><mfrac><msup><mi style='font-size:large'>891</mi></msup></mfrac><mfrac><msup><mi style='font-size:large'>1000</mi></msup></mfrac></mfrac></math>"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q13",
+        "question": "Sherry wants to write the digit 6 of the number 147.630 in a different way. Help him write in the correct way.",
+        "options": [
+            "6 tenths, 0.6, <math><mfrac bevelled='true'><mfrac><msup><mi style='font-size:large'>6</mi></msup></mfrac><mfrac><msup><mi style='font-size:large'>10</mi></msup></mfrac></mfrac></math>",
+            "6 Ones, 6 x 1, 6",
+            "6 tens , 6 x 10, 60",
+            "6 Hundredth, 0.600, <math><mfrac bevelled='true'><mfrac><msup><mi style='font-size:large'>6</mi></msup></mfrac><mfrac><msup><mi style='font-size:large'>100</mi></msup></mfrac></mfrac></math>"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q14",
+        "question": "Mathis asks Alex to write the number name for 789,012. What did Alex write?",
+        "options": [
+            "Seven hundred eighty-nine thousand",
+            "Seven hundred eighty-nine thousand, twelve",
+            "Seventy-eight thousand, nine hundred, twelve",
+            "Seventy-eight thousand, ninety-one, two"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q15",
+        "question": "Alex is learning about the International System of Numeration from Mathis. What is the correct number name for 1,234,567?",
+        "options": [
+            "One million, two hundred thirty-four thousand, five hundred sixty-seven",
+            "Twelve million, three hundred forty-five thousand, sixty-seven",
+            "One thousand, two hundred thirty-four thousand, five hundred sixty-seven",
+            "One million, two hundred thirty-four thousand, fifty-six, seven"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q16",
+        "question": "According to Professor Mathis, what is the correct way to write the number 6,789,012 in words?",
+        "options": [
+            "Six million, seven hundred eighty-nine thousand, twelve",
+            "Six million, seven hundred eighty-nine thousand twelve",
+            "Sixty-seven million, eight hundred ninety-thousand, twelve",
+            "Sixty-seven million, eight hundred ninety-thousand twelve"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q17",
+        "question": "Harry read that his computer costs “Six million, five hundred forty-three thousand, two hundred ten” dollars. How can he write this number in numeral form?",
+        "options": [
+            "43,210",
+            "6,543,210",
+            "543,210",
+            "6, 43, 210"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q18",
+        "question": "Lisa had received \"One million, eight hundred sixty thousand, seven hundred point six seven”. She tries to write it in numeral form. Which of the following is correct?",
+        "options": [
+            "1,867,000.67",
+            "1,867,000",
+            "1,860,700.67",
+            "1,860,700"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q19",
+        "question": "Rewrite the number 50709056156.024 with the commas.",
+        "options": [
+            "50,709,056,156.0,2,4",
+            "50709056,156.02,4",
+            "50,709,056,156.024",
+            "50,709,056,156,.024"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q20",
+        "question": "Mary is trying to read the number 789654085.8965 but is not able to read it. So she tries to put the commas to the number. Help her do it?",
+        "options": [
+            "789654,085.8965",
+            "7,896,540,85.8,965",
+            "789,654,085.8,965",
+            "789,654,085.8965"
+        ],
+        "correct": 3
+    }
+]
